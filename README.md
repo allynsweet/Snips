@@ -2,7 +2,6 @@
 
 <snippet>
   <content>
-Your day in 12 seconds
 ## Goals
 1. Stage 1:
     - Develop a Python-based backend with Flask
