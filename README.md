@@ -29,6 +29,6 @@
      - Handle login and signup requests and respond (Server)
      - Create follow and user databases (Server)
      - Handle requests for follow and unfollow (Server)
-]]></content>
-  <tabTrigger>readme</tabTrigger>
+</content>
+
 </snippet>
