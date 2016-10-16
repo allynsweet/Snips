@@ -4,7 +4,6 @@
   <content>
 ## Goals
 1. Stage 1:
-    - Develop a Python-based backend with Flask
     - Allow backend to accept short encoded videos and decode
     - Save the video file to a directory with the following organization:  
 				&nbsp;&nbsp;&nbsp;&nbsp;data/  
